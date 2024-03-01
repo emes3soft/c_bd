@@ -14,7 +14,7 @@ DataTables - https://datatables.net/
 
 Introdução
 
-    Esta manual de Informações sobre Licença contém a licença do produto EMES3SOFT
+    Este manual de Informações sobre Licença contém a licença do produto EMES3SOFT
     e outras informações de licenciamento, incluindo informações de licenciamento para
     software de terceiros que pode ser incluído nesta distribuição de
     c_bd v1.
