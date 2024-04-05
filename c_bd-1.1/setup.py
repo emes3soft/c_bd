@@ -10,7 +10,7 @@ setup(
     package_dir={"":"c_bd"},
     long_description=long_description,
     long_description_content_type="text/markdown",
-    url = "https://github.com/emes3soft/c_bd",
+    url = "https://github.com/emes3soft/c_bd/c_bd-1.1",
     author= "Emes3Soft",
     author_email= "emes3soft@emes3soft.com",
     license="GPLv3",
