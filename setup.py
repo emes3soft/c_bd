@@ -11,6 +11,7 @@ setup(
     long_description=long_description,
     long_description_content_type="text/markdown",
     url = "https://github.com/emes3soft/c_bd",
+    download_url = "https://github.com/emes3soft/c_bd/blob/main/dist/c_bd-1.1.zip",
     author= "Emes3Soft",
     author_email= "emes3soft@emes3soft.com",
     license="GPLv3",
