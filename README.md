@@ -6,10 +6,10 @@ Flask é uma libraria gratuita em python que permite desenvolvimento de páginas
 Bootstrap é um framework gratuita para melhoramento visual e responsivo de páginas web
 DataTables permite adicionar um controlo de interação avançada para tabelas HTML (gratuita)
 
-python - https://www.python.org/
-flask - https://flask.palletsprojects.com/en/3.0.x/
-Bootstrap - https://getbootstrap.com/
-DataTables - https://datatables.net/
+python - https://www.python.org/<br/>
+flask - https://flask.palletsprojects.com/en/3.0.x/<br/>
+Bootstrap - https://getbootstrap.com/<br/>
+DataTables - https://datatables.net/<br/>
      __________________________________________________________________
 
 Introdução
@@ -19,9 +19,9 @@ Introdução
     software de terceiros que pode ser incluído nesta distribuição de
     c_bd v1.
 
-    Instalar através do comando:pip install [https://github.com/emes3soft/c_bd/dist/c_bd-1.1-py3-none-any.whl]
+    Instalar através do comando:pip install [https://github.com/emes3soft/c_bd/dist/c_bd-2.0-py3-none-any.whl]
 
-   Última atualização: Março 2024
+   Última atualização: setembro 2024
 
 Informação de Licenciamento
 
