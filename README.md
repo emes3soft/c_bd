@@ -17,7 +17,7 @@ Introdução
     Este manual de Informações sobre Licença contém a licença do produto EMES3SOFT
     e outras informações de licenciamento, incluindo informações de licenciamento para
     software de terceiros que pode ser incluído nesta distribuição de
-    c_bd v1.
+    c_bd v2.0.
 
     Instalar através do comando:
     pip install https://github.com/emes3soft/c_bd/dist/c_bd-2.0-py3-none-any.whl
