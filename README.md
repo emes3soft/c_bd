@@ -19,7 +19,7 @@ Introdução
     software de terceiros que pode ser incluído nesta distribuição de
     c_bd v1.
 
-    Instalar através do comando: <br/>
+    Instalar através do comando:
     pip install https://github.com/emes3soft/c_bd/dist/c_bd-2.0-py3-none-any.whl
     ou
     pip install https://github.com/emes3soft/c_bd/dist/c_bd-2.0.tar.gz
