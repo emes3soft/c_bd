@@ -20,9 +20,9 @@ Introdução
     c_bd v1.
 
     Instalar através do comando: <br/>
-    pip install https://github.com/emes3soft/c_bd/dist/c_bd-2.0-py3-none-any.whl<br/>
-    ou<br/>
-    pip install https://github.com/emes3soft/c_bd/dist/c_bd-2.0.tar.gz<br/>
+    pip install https://github.com/emes3soft/c_bd/dist/c_bd-2.0-py3-none-any.whl
+    ou
+    pip install https://github.com/emes3soft/c_bd/dist/c_bd-2.0.tar.gz
 
    Última atualização: setembro 2024
 
